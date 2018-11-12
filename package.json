@@ -1,9 +1,9 @@
 {
-  "name": "react-native-swipe-navigation",
-  "version": "1.0.0-beta",
-  "description": "swipe to navigate",
+  "name": "@540deg/react-native-swipe-navigation",
+  "version": "1.0.0",
+  "description": "React Native swipe to navigate",
   "main": "build/index.js",
-  "author": "BENEKA AZZEDDINE <aikidocombat3@hotmail.com>",
+  "author": "540deg <dev@540deg.com>",
   "license": "MIT",
   "scripts": {
     "clean": "rm -rf build",
@@ -39,5 +39,17 @@
     "react": "^16.2.0",
     "react-native": "^0.52.0",
     "react-test-renderer": "^16.2.0"
-  }
+  },
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/540/react-native-swipe-navigation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/540/react-native-swipe-navigation/issues"
+  },
+  "homepage": "https://github.com/540/react-native-swipe-navigation#readme"
 }
