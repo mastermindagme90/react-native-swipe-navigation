@@ -1,6 +1,6 @@
 {
   "name": "@540deg/react-native-swipe-navigation",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "React Native swipe to navigate",
   "main": "build/index.js",
   "author": "540deg <dev@540deg.com>",
